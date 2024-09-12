@@ -1,0 +1,7 @@
+eco "# Banban" >> README.md
+Git init
+git add README.md
+git commit -m "primer commit"
+git branch -M principal
+git remote añadir origen https://github.com/Rosales111888/Banban.git
+git push -u origen principal
